@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import StudentForm from "ecomm/StudentForm";
+import StudentForm from "studentApp1/StudentForm";
 
 import "./index.css";
 
